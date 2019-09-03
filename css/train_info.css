@@ -1,0 +1,46 @@
+
+
+.parallex2{
+  
+  width: 100%;
+  height: 50vh;
+
+  margin-bottom: 3px; 
+  text-align: center;
+  padding-top: 5%;
+
+
+}
+.parallex2 h1{
+  
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+.parallex3{
+  
+  width: 100%;
+  height: 50vh;
+  background-image: url('../img/1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  margin-bottom: 3px; 
+  text-align: center;
+  padding-top: 5%;
+
+
+}
+.parallex2 h1{
+  
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+
+.parallex3 h1{
+  
+  font-size: 50px;
+  letter-spacing: 2px;
+}
+p{
+  font-size: 40px;
+}

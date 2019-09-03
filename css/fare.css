@@ -1,0 +1,93 @@
+.live_main{
+	margin-top: 65px;
+	height: 400px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 20px;
+}
+h1{
+	
+	position: absolute;
+	top: 20px;
+	left: 35%;
+
+}
+
+input[type=text]
+{
+	/* position: absolute;
+	top: 150px;
+	left: 29%; */
+}
+
+#train_num
+{
+	position: absolute;
+	top: 170px;
+	left: 8%;
+	margin: 10px;
+}
+#src_code
+{
+	position: absolute;
+	top: 170px;
+	left: 28%;
+	margin: 10px;
+}
+
+#dest_code
+{
+	position: absolute;
+	top: 170px;
+	left: 48%;
+	margin: 10px;
+}
+
+#age
+{
+	position: absolute;
+	top: 170px;
+	left: 68%;
+	margin: 10px;
+}
+
+#pref
+{
+	position: absolute;
+	top: 240px;
+	left: 20%;
+	margin: 10px;
+}
+#quota
+{
+	position: absolute;
+	top: 240px;
+	left: 40%;
+	margin: 10px;
+}
+#j_date
+{
+	position: absolute;
+	top: 240px;
+	left: 60%;
+	margin: 10px;
+}
+
+
+
+#btnclk
+{
+	position: absolute;
+	top: 320px;
+	left: 45%;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+
+
+}
+
+.pnr_main{
+
+	height: 500px;
+}

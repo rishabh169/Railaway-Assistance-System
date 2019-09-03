@@ -1,0 +1,29 @@
+.fulldiv{
+	width: 100%;
+	height: 100vh;
+	background-image: url('../img/2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.signupdiv{
+
+	width: 30%;
+}
+
+input[type=text]{
+	
+	/* opacity: 0.5; */
+
+}
+input[type=password]{
+	
+	/* opacity: 0.5; */
+}
+
+input[type=submit]{
+	
+	margin-left: 36%;
+	padding: 10px 30px;
+	font-size: 20px;
+}

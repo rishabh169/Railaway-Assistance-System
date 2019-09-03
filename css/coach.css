@@ -1,0 +1,37 @@
+.live_main{
+	margin-top: 65px;
+	height: 300px;
+	position: relative;
+	margin-bottom: 20px;
+}
+h1{
+	
+	position: absolute;
+	top: 20px;
+	left: 30%;
+
+}
+
+input[type=text]
+{
+	position: absolute;
+	top: 150px;
+	left: 32%;
+}
+
+#btnclk
+{
+	position: absolute;
+	top: 150px;
+	left: 55%;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+
+
+}
+
+.pnr_main{
+
+	height: 500px;
+}
